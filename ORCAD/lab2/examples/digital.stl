@@ -1,0 +1,15 @@
+* C:\Users\World_conspiracy\Desktop\Signals\digital.stl written on Tue Feb 25 13:13:08 2020
+* by Stimulus Editor -- Lite Version 17.2.0
+;!Stimulus Get
+;! digital Digital
+;!Ok
+;!Plot Axis_Settings
+;!Xrange 0s 1us
+;!AutoUniverse
+;!XminRes 1ns
+;!YminRes 1n
+;!Ok
+.STIMULUS digital STIM (1, 1)
++   +0s 1
++   200ns 0
++   399ns 1

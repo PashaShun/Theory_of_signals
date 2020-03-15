@@ -1,0 +1,13 @@
+* C:\Users\World_conspiracy\Desktop\Signals\pulse.stl written on Tue Feb 25 13:04:55 2020
+* by Stimulus Editor -- Lite Version 17.2.0
+;!Stimulus Get
+;! pulse Analog
+;!Ok
+;!Plot Axis_Settings
+;!Xrange 0s 35ns
+;!Yrange 0 2
+;!AutoUniverse
+;!XminRes 1ns
+;!YminRes 1n
+;!Ok
+.STIMULUS pulse PULSE( 0 2 5ns 1ns 3ns 4ns 10ns )

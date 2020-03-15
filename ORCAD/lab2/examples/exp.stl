@@ -1,0 +1,13 @@
+* C:\Users\World_conspiracy\Desktop\Signals\exp.stl written on Tue Feb 25 13:02:36 2020
+* by Stimulus Editor -- Lite Version 17.2.0
+;!Stimulus Get
+;! exp Analog
+;!Ok
+;!Plot Axis_Settings
+;!Xrange 0s 80.000000002s
+;!Yrange 0 2
+;!AutoUniverse
+;!XminRes 1ns
+;!YminRes 1n
+;!Ok
+.STIMULUS exp EXP( 0 2 2ns 20 40 20 )
