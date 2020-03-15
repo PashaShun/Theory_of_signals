@@ -1,0 +1,14 @@
+* C:\Users\World_conspiracy\Desktop\Orcad\Sunshine1-PSpiceFiles\SUNSHINE1.stl written on Sun Feb 23 18:59:46 2020
+* by Stimulus Editor -- Lite Version 17.2.0
+;!Stimulus Get
+;! signal Digital
+;!Ok
+;!Plot Axis_Settings
+;!Xrange 0s 1us
+;!AutoUniverse
+;!XminRes 1ns
+;!YminRes 1n
+;!Ok
+.STIMULUS signal STIM (1, 1)
++   +0s 1
++   100ns 0
